@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sy6PWD2XIMg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wes\\source\\repos\\HEIC_Convert_Automation\\HEIC_Convert_Automation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wes\\.nuget\\packages\\magick.net-q8-anycpu\\13.10.0\\magick.net-q8-anycpu.13.10.0.nupkg.sha512",
+    "C:\\Users\\Wes\\.nuget\\packages\\magick.net.core\\13.10.0\\magick.net.core.13.10.0.nupkg.sha512",
+    "C:\\Users\\Wes\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\Wes\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\Wes\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
